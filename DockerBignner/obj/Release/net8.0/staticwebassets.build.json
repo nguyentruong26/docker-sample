@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ma9YDDgmxSdAF75+8i3cTiXTjuAgvpSHjR9phuRjqSs=",
+  "Source": "DockerBignner",
+  "BasePath": "_content/DockerBignner",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
